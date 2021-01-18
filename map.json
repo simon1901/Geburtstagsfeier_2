@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/simon1901.github.io\/Geburtstagsfeier_1\/map.json#vomObergeschoss"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/simon1901.github.io\/Geburtstagsfeier_1\/map.json#VomObergeschoss"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -989,6 +989,15 @@
                         }]
                 }, 
                 {
+                 "id":40,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":73,
                  "properties":[
                         {
@@ -1071,6 +1080,15 @@
                 }, 
                 {
                  "id":159,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":171,
                  "properties":[
                         {
                          "name":"collides",
